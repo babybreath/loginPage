@@ -1,0 +1,17 @@
+html,body{height: 100%;margin:0;padding:0}
+.BG{position: relative;height: 100%;background: url(../img/bg_full.png) no-repeat center;}
+.loginBG{position: absolute;top: 50%;left: 0; margin-top: -261px;width: 100%;height: 522px;background: url(../img/bg_middle.png) no-repeat;}
+.loginForm{width: 354px;margin: 0 auto;}
+.loginHeader{height: 60px;margin:70px 0 80px 0;text-align: center;color: #fff;font-size: 32px;line-height: 60px;}
+.col{height: 80px;background: url(../img/input_frame.png) no-repeat bottom;}
+.col-1{margin-left: 40px;position: relative;}
+.textInput{width: 100%;margin-top: 40px;outline: 0;background: transparent;border: 0;color: #fff;font-size: 20px;line-height: 24px;}
+.icon-i{float: left;margin-top: 40px;width: 26px;height: 26px;}
+.icon-username{background: url(../img/ic_account.png) no-repeat;}
+.icon-password{background: url(../img/ic_password.png) no-repeat;}
+.loginBtn{height: 40px;width: 354px;margin-top: 60px;border: 0;outline: 0;background: url(../img/btn_login_n.png) no-repeat;}
+.loginBtn:hover{background: url(../img/btn_login_mouseover.png) no-repeat;}
+.loginBtn:active{background: url(../img/btn_login_press.png) no-repeat;}
+.warnText{color: red;font-size: 16px;}
+.eyePrompt{width: 32px;height: 32px;position: absolute;top: 40px;right: 0;cursor: pointer;background: url(../img/iconfont-eye.png) no-repeat;}
+.loading{height: 40px;width: 354px;margin-top: 60px;border: 0;outline: 0;background: url(../img/loading.gif) no-repeat center;}
