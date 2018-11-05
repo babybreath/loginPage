@@ -127,6 +127,7 @@ body {
   background: url(../img/iconfont-eye.png) no-repeat;
 }
 .loading {
+  text-indent:-9999px;
   height: 40px;
   width: 354px;
   margin-top: 60px;
